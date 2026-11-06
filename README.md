@@ -1,1 +1,1 @@
-# Spotify Analytics
+# Spotify Analytics BI Solutions
